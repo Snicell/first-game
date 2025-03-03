@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0a0bcf78-2088-4eb0-a6ea-7b283455ef6b","name":"0a0bcf78-2088-4eb0-a6ea-7b283455ef6b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4079bbd0-253c-4061-9fba-4d4d176b7257","name":"4079bbd0-253c-4061-9fba-4d4d176b7257","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":67,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"42f24046-10b9-47ac-962c-820169add045","blendMode":0,"displayName":"default","isLocked":false,"name":"42f24046-10b9-47ac-962c-820169add045","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e4a59415-834c-4c93-b4a3-386e8fe20c1e","blendMode":0,"displayName":"default","isLocked":false,"name":"e4a59415-834c-4c93-b4a3-386e8fe20c1e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_car_crashed",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a0bcf78-2088-4eb0-a6ea-7b283455ef6b","path":"sprites/spr_car_crashed/spr_car_crashed.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7578fbbe-5879-4eae-98c3-e0c806f11b04","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4079bbd0-253c-4061-9fba-4d4d176b7257","path":"sprites/spr_car_crashed/spr_car_crashed.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"32b162f6-893f-4b25-9ed1-177d25322dbb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
